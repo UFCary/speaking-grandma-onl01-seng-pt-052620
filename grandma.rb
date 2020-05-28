@@ -20,4 +20,4 @@ elsif phrase == phrase.upcase && "I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMPKIN"
 else
   ""
-endNO, NOT SINCE 1938!
+end
